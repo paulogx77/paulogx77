@@ -1,7 +1,9 @@
 ## Me chamo Paulo Guilherme 👋 
 
 🚀 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFPB, e meu objetivo é expandir e buscar novos conhecimentos na área.
+
 🎯 Meu principal foco agora é conseguir meu primeiro emprego na área, para adquirir experiência e continuar aprendendo.
+
 💻 Sou apaixonado por Java e suas tecnologias, e estou me aprofundando no ecossistema Spring por meio de projetos pessoais.
 
  ### Habilidades 🛠️
