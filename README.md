@@ -25,7 +25,7 @@
 * **Banco de Dados:** 🗄️ MySQL, 🐘 PostgreSQL
 * **Ferramentas e Frameworks:** 🌱 Spring, 🐳 Docker
 
-### Projetos 💻
+<!-- ### Projetos 💻
 
 #### Sistema de Orçamento e Inventário
 
@@ -34,7 +34,8 @@ Este projeto é um sistema destinado à inventariação de equipamentos e contro
 **Tecnologias Utilizadas:**
 * **Backend:** Java, Spring
 * **Frontend:** React
-* **Banco de Dados:** PostgreSQL
+* **Banco de Dados:** PostgreSQL --!>
+
 <!--
 **paulogx77/paulogx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
