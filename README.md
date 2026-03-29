@@ -1,6 +1,6 @@
 ## Hi, I'm Paulo Guilherme 👋
 
-🚀 Systems Analysis and Development student at **IFPB** | Currently in the **Microelectronics** at **UFCG**.
+🚀 Systems Analysis and Development student at **IFPB** | **Microelectronics** student at **UFCG**.
 
 I'm a full-stack developer with strong experience in modern web and backend technologies. Passionate about building scalable applications and now expanding into hardware design and microelectronics.
 
