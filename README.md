@@ -2,7 +2,7 @@
 
 🔬 **Design Verification** • 💻 **Software Engineering** • ☁️ **Cloud**
 
-🎓 **Design Verification Track** @ **CiExpert Program (UFCG)**  
+🎓 **Microelectronics - Design Verification Track** @ **CiExpert Program (UFCG)**  
 🎓 **Systems Analysis and Development** @ **IFPB**
 
 ---
