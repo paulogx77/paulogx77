@@ -11,7 +11,7 @@
 
 **Languages & Methodologies**
 
-`SystemVerilog` • `UVM` • `SVA` • `Constrained Random Verification`
+`SystemVerilog` • `UVM` • `SVAssertions` • `Constrained Random Verification`
 
 ## 💻 Software Engineering
 
